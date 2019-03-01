@@ -5,4 +5,4 @@
 
 - Prácticas guiadas
   - [P1 - Memory Game](https://github.com/DenisRaicu/DESARROLLO-DE-VIDEOJUEGOS-WEB/tree/master/P1)
-    - [Probar juego :space_invader:](https://denisraicu.github.io/DESARROLLO-DE-VIDEOJUEGOS-WEB)
+    [:space_invader: Probar juego](https://denisraicu.github.io/DESARROLLO-DE-VIDEOJUEGOS-WEB)
